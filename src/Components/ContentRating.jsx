@@ -22,6 +22,7 @@
        render() {
          return (
           <>
+          <h1>Rıdvan UZUN</h1>
           <h1>Text Content Rating</h1>
           <div className='content-rating'>
              <p>Text</p>
